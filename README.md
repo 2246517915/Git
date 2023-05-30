@@ -1,4 +1,4 @@
-# Git_Info
+# Git
  Learn about Git's materials
 
 #Logging
